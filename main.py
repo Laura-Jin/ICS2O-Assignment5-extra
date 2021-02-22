@@ -6,7 +6,7 @@ print("Finding the circumference (C) and the area (A) of a circle using the diam
 # Stores the number that the user enteres in the variable 'diameter'
 diameter = input("Insert and enter a positive number or decimal to be the diameter of a circle: ")
 
-# Makes a variable 'pi' by defining it as math.pi and this uses the math library above. Then it turns the variable 'diameter' and 'pi' into decimal numbers
+# Makes a variable 'pi' by defining it as math.pi. Then it turns the variable 'diameter' and 'pi' into decimal numbers
 pi = math.pi
 diameter = float(diameter)
 pi = float(pi)
